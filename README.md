@@ -1,38 +1,13 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+### Hi there! I am Kristian! 👋
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kristianachwan&theme=tokyonight&layout=compact)
 
-###
+I am currently a mathematical and computer sciences sophomore at Nanyang Technological Singapore. I am interested in the software engineering field and passionate about building products that are useful for people ❤️.
 
-<p align="left">My name is Kristian and I'm a web-developer based in Singapore</p>
+### Projects that I have worked on: 
+- Cognimate (Feb 2024) 
+- NTUMODS (Jan 2024)
+- GTD Payment System (Dec 2023)
+- NTUSU ITC New Portal (Mar 2023) 
+- ICN Show Website (Dec 2022)
 
-###
-
-<div align="center">
-</div> 
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Turning coffee into code<br>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
+If you are interested in collaborating, connect me through my [LinkedIn](https://www.linkedin.com/in/kristianachwan/) or directly through email at kachwan001@e.ntu.edu.sg. 
