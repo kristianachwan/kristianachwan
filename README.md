@@ -4,7 +4,7 @@
 I am a final-year mathematical and computer science student at Nanyang Technological Singapore. I am interested in the software engineering field and passionate about building products that are useful for people ❤️.
 
 ### Projects that I have worked on: 
-- Steady Mate -- AI Tool for students with ADHD (Cooking now 🧑‍🍳)
+- Final Year Project -- AI Tool for students with ADHD (Cooking now 🧑‍🍳)
 - ICN Show Website (Dec 2024)
 - Cognimate (Feb 2024) 
 - NTUMODS (Jan 2024)
