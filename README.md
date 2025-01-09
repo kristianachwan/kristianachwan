@@ -6,7 +6,6 @@ I am a final-year mathematical and computer science student at Nanyang Technolog
 ### Projects that I have worked on: 
 - Final Year Project -- AI Tool for students with ADHD (Cooking now 🧑‍🍳)
 - ICN Show Website (Dec 2024)
-- Cognimate (Feb 2024) 
 - NTUMODS (Jan 2024)
 - GTD Payment System (Dec 2023)
 - PINTU Lapak (Oct 2023)
