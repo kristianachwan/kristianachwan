@@ -1,11 +1,12 @@
 ### Hi there! I am Kristian! 👋
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kristianachwan&theme=tokyonight&layout=compact)
 
-I am a final-year mathematical and computer science student at Nanyang Technological Singapore. I am interested in the software engineering field and passionate about building products that are useful for people ❤️.
+I am a mathematical and computer science graduate from Nanyang Technological Singapore. I am interested in the software engineering field and passionate about building products that are useful for people ❤️.
 
 ### Projects that I have worked on: 
-- Final Year Project -- AI Tool for students with ADHD (Cooking now 🧑‍🍳)
+- Final Year Project -- AI Tool for students with ADHD
 - ICN Show Website (Dec 2024)
+- Cognimate (Feb 2024) for SCSE Tech Fest (1st Runner-up Winner)
 - NTUMODS (Jan 2024)
 - GTD Payment System (Dec 2023)
 - PINTU Lapak (Oct 2023)
