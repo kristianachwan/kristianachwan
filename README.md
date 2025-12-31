@@ -1,5 +1,4 @@
-### Hi there! I am Kristian! 👋
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kristianachwan&theme=tokyonight&layout=compact)
+### Hi there, I am Kristian! 👋
 
 I am a mathematical and computer science graduate from Nanyang Technological Singapore. I am interested in the software engineering field and passionate about building products that are useful for people ❤️.
 
